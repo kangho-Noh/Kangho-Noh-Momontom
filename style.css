@@ -1,0 +1,15 @@
+.js-title {
+  display: inline;
+}
+.js-clock__ampm {
+  margin: 0px 3px;
+}
+
+.form,
+.greetings {
+  display: none;
+}
+
+.showing {
+  display: block;
+}
