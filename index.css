@@ -1,8 +1,9 @@
 body {
   background-color: #7f8fa6;
+  color: white;
 }
 h1 {
-  color: #34495e;
+  color: white;
   transition: color 0.3s ease-in-out;
 }
 .btn {
